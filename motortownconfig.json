@@ -208,7 +208,8 @@
         "EnumValues": {
             "beta -betapassword motortowndedi": "Beta (default)",
             "test -betapassword motortowndedi": "Test",
-            "public": "Public"
+            "public": "Public",
+            "public -betapassword motortowndedi": "public with pw"
         }
     },
     {
