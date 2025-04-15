@@ -206,10 +206,10 @@
         "ParamFieldName": "ServerBranch",
         "DefaultValue": "beta",
         "EnumValues": {
-            "beta -betapassword motortowndedi": "Beta (default)",
-            "test -betapassword motortowndedi": "Test",
-            "public": "Public",
-            "public -betapassword motortowndedi": "public with pw"
+            "beta -betapassword motortowndedi": "beta",
+            "test -betapassword motortowndedi": "test",
+            "public": "public",
+            "public -betapassword motortowndedi": "public_with_pw"
         }
     },
     {
